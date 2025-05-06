@@ -1,1 +1,0 @@
-high order function: a function that returns another function
